@@ -1,7 +1,8 @@
 
 # Django TDD
 
-- 2019/01
+- 2018/11/19 Start
+- 2019/01/31 (only for backup)
 
 
 1. 抓 `geckodriver` - Selenium for Firefox
